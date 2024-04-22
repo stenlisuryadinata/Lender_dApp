@@ -1,0 +1,16 @@
+codigo@a32aeff9f-1083-433f-a877-b8623434b31b-deployment-elim-berkqfvhc:~/workspace/program$ solana program deploy target/deploy/informal_lender.so
+Program Id: 2RTn4PjMbjLx7jQmtCwDv5amCiC2xWcs7og5KcVDo2ha
+
+
+Ledger location: test-ledger
+Log: test-ledger/validator.log
+⠤ Initializing...                                                                                                                                  Waiting for fees to stabilize 1...
+Identity: 92VhKTWb3EpqgRzx9kXsL3isUXxh7qwiAeFw2tUEUGyJ
+Genesis Hash: CDsvbpzsoiCc99XNQ3Dt7sv7ak6NXVoHSSTr2CWuQnrW
+Version: 1.17.14
+Shred Version: 6460
+Gossip Address: 127.0.0.1:1024
+TPU Address: 127.0.0.1:1027
+JSON RPC URL: http://127.0.0.1:8899
+WebSocket PubSub URL: ws://127.0.0.1:8900
+⠓ 00:04:18 | Processed Slot: 628 | Confirmed Slot: 628 | Finalized Slot: 596 | Full Snapshot Slot: 500 | Incremental Snapshot Slot: - | Transactions:
